@@ -28,5 +28,8 @@ product-information-system/
 
 ## Tampilan Project
 
-![Tampilan Product Information System](<img width="934" height="425" alt="image" src="https://github.com/user-attachments/assets/caf90921-f42d-4b01-a653-760592e25d0d" />
-)
+# Product Information System
+
+## Tampilan Program
+
+![Product Information System](images/product-information-system.png)
