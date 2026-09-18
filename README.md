@@ -25,3 +25,8 @@ product-information-system/
 ├── products.php
 ├── functions.php
 └── README.md
+
+## Tampilan Project
+
+![Tampilan Product Information System](<img width="934" height="425" alt="image" src="https://github.com/user-attachments/assets/caf90921-f42d-4b01-a653-760592e25d0d" />
+)
