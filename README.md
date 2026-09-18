@@ -8,7 +8,7 @@ Program ini juga dapat menghitung total nilai stok dan memberikan tanda pada pro
 
 ## Tampilan Program
 
-![Product Information System](![alt text](image.png))
+![Product Information System](!(image.png))
 
 ## Fitur
 
