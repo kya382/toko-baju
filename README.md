@@ -1,45 +1,45 @@
-# Product Information System
+# Product Information System - Toko Baju
 
-## Deskripsi
+## Deskripsi Project
 
-Product Information System adalah project sederhana berbasis PHP yang digunakan untuk menampilkan informasi produk pakaian.
+Product Information System adalah aplikasi sederhana berbasis PHP yang dibuat untuk membantu menampilkan informasi produk pada sebuah toko baju.
 
-Project ini dibuat untuk menerapkan beberapa konsep dasar PHP, seperti array multidimensi, function, percabangan, dan perulangan `foreach`.
+Aplikasi ini digunakan untuk menampilkan berbagai produk baju yang tersedia di toko, mulai dari nama produk, kategori, harga, jumlah stok, hingga deskripsi produk.
 
-Data produk yang ditampilkan meliputi ID, nama, kategori, harga, stok, dan deskripsi.
+Project ini dibuat untuk menerapkan konsep dasar pemrograman PHP, seperti array multidimensi, function, percabangan, dan perulangan `foreach`.
 
-Project ini juga memiliki fitur untuk menghitung total nilai stok dan memberikan tanda pada produk yang memiliki stok kurang dari 3.
+Selain menampilkan informasi produk, aplikasi juga dapat menghitung total nilai stok barang yang tersedia di toko. Produk yang memiliki stok kurang dari 3 akan diberikan tanda sebagai stok kritis.
 
 ---
 
-## Tujuan
+## Tujuan Project
 
-Project ini bertujuan untuk:
+Project ini dibuat untuk:
 
-1. Memahami dasar-dasar PHP.
+1. Memahami dasar-dasar pemrograman PHP.
 2. Memahami penggunaan array multidimensi.
 3. Memahami penggunaan function.
 4. Menggunakan percabangan dalam PHP.
 5. Menggunakan perulangan `foreach`.
 6. Memisahkan data, proses, dan tampilan.
-7. Menampilkan data dalam bentuk tabel.
+7. Menampilkan informasi produk toko baju dalam bentuk tabel.
 
 ---
 
-## Fitur
+## Fitur Aplikasi
 
-Project ini memiliki beberapa fitur, yaitu:
+Fitur yang terdapat pada sistem informasi toko baju ini yaitu:
 
-- Menampilkan daftar produk pakaian.
+- Menampilkan daftar produk baju.
 - Menampilkan ID produk.
 - Menampilkan nama produk.
 - Menampilkan kategori produk.
 - Menampilkan harga produk.
 - Menampilkan jumlah stok.
 - Menampilkan deskripsi produk.
-- Menghitung total nilai stok.
+- Menghitung total nilai stok barang.
 - Menandai produk dengan stok kritis.
-- Menampilkan data menggunakan perulangan `foreach`.
+- Menampilkan data produk secara otomatis menggunakan `foreach`.
 
 ---
 
@@ -49,9 +49,9 @@ Project ini memiliki beberapa fitur, yaitu:
 
 ---
 
-## Data Produk
+## Produk Toko Baju
 
-Produk yang digunakan dalam project ini adalah:
+Data yang digunakan dalam aplikasi merupakan beberapa produk yang tersedia di toko baju.
 
 | ID | Nama Produk | Kategori | Harga | Stok |
 |----|-------------|----------|-------|------|
@@ -73,10 +73,10 @@ Produk yang digunakan dalam project ini adalah:
 ```text
 mini project/
 │
+├── Images/
+│   └── product-information-system.png
+│
+├── functions.php
 ├── index.php
 ├── products.php
-├── functions.php
-├── README
-│
-└── Images/
-    └── product-information-system.png
+└── README
