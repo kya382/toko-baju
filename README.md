@@ -45,7 +45,8 @@ Fitur yang terdapat pada sistem informasi toko baju ini yaitu:
 
 ## Tampilan Program
 
-<img width="950" height="449" alt="product-information-system png" src="https://github.com/user-attachments/assets/b53b8d10-0a9f-4279-9576-0349a31b9201" />
+
+<img width="933" height="423" alt="product-information-system" src="https://github.com/user-attachments/assets/9ed66208-264b-4f7d-887f-b989b15a7084" />
 
 ---
 
